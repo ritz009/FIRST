@@ -1,0 +1,8 @@
+  1  cd /root
+    2  ls
+    3  cd /root/.ssh
+    4  ls
+    5  cat /root/.ssh/id_rsa.pub
+    6  history
+:wq
+
